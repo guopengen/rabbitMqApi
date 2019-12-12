@@ -6,5 +6,7 @@ package com.wangpf.api;
 public class Test2 {
     public static void main(String[] args) {
         System.out.println("我是主干分支，1.0分支你看不到我");
+        System.out.println("wahh");
     }
+
 }
