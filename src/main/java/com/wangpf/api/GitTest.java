@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("seconde commit");
         System.out.println("我是1.0版本，修改问题");
+        System.out.println("我是1.0版本，再次修改问题");
     }
 }
